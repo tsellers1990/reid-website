@@ -269,7 +269,7 @@ const PuzzleWebsite = () => {
             </div>
             <div className="border-t-4 border-gray-700 pt-10 mt-10">
               <p className="text-2xl text-gray-400 italic">
-                "I didn't think you'd get this far, so I didn't add anything..."
+                "他の言語を学ぶべきです。いつ必要になるか分かりませんから"
               </p>
               <p className="text-lg text-gray-500 mt-6">- Ty</p>
             </div>
