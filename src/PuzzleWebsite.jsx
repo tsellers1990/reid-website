@@ -228,8 +228,8 @@ const PuzzleWebsite = () => {
             <p className="text-center text-gray-400 mb-10 text-xl">...Right?</p>
             <div className="border-t border-gray-700 pt-8">
               <p className="text-center text-gray-500 italic text-xl">
-                Well, that's everything... There couldn't be anything else
-                anywhere...
+                Well, that's everything... There couldn't possibly be anything else
+                here...
               </p>
             </div>
           </div>
